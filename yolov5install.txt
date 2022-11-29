@@ -1,4 +1,6 @@
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
+https://mega.nz/file/lk1TTY4Z#NLxd-Y4-5NnS8jD2JHfPrflBLpOhWCZuczb4Qrkun3g
+
+
 if count % 3 != 0:
    continue
