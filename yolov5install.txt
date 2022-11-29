@@ -1,6 +1,6 @@
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 https://mega.nz/file/lk1TTY4Z#NLxd-Y4-5NnS8jD2JHfPrflBLpOhWCZuczb4Qrkun3g
 
-
+count+=1
 if count % 3 != 0:
    continue
